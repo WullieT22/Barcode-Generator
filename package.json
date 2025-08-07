@@ -1,0 +1,14 @@
+{
+  "name": "barcode-generator",
+  "version": "1.0.0",
+  "description": "A simple web application to generate Code 39 barcodes from user input.",
+  "main": "src/scripts/app.js",
+  "scripts": {
+    "start": "live-server src"
+  },
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  },
+  "author": "Your Name",
+  "license": "MIT"
+}
